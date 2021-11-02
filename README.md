@@ -65,9 +65,3 @@ if your sistem is window you should use cross-env
 
 Si tu sistema operativo es Linux o Mac, puedes saltarte este paso.
 if you use Linux or Mac, skip this step
-
-El link `http://localhost:3000 ` es solo paralos pacientes y puedan verificar su cita
-El link `http://localhost:3000/posts` es para que el doctor pueda loguearse y manejar sus consultas
-
-The link `http://localhost:3000 ` is just for the patients and they can to verify their dates
-The link `http://localhost:3001/posts ` for the Doctor can to login and manipulate the dates
